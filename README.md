@@ -1,7 +1,9 @@
 #### Hey there, I'm Matteo 👋
+
 A 20 year old CS student specializing in Infrastructure. I focus on **Networking, Wireless Communication and Software Systems**
 
 📃 I'm currently learning:
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="BSD" />
@@ -14,6 +16,12 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
 </p>
 
 ⭐ Some projects that I'm working on:
-* [Personal Portfolio](https://gradinaru.net/)
-* [HealTest - Network Chaos Platform (Alpha)](https://healtest.dev/)
 
+- [Personal Portfolio](https://gradinaru.net/)
+- [HealTest - Network Chaos Platform (Alpha)](https://healtest.dev/)
+
+<br />
+
+<p align="center">
+  <img src="./assets/afterlife.jpg" alt="afterlife-picture" width="100%" style="border-radius: 8px;"/>
+</p>
