@@ -22,6 +22,6 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
 
 <br />
 
-<p align="center">
-  <img src="./assets/afterlife.jpg" alt="afterlife-picture" width="100%" style="border-radius: 8px;"/>
+<p>
+  <img src="./assets/afterlife.jpg" alt="afterlife-picture" width="70%""/>
 </p>
