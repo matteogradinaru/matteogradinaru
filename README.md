@@ -2,8 +2,10 @@
 
 A 20 year old CS student specializing in Infrastructure. I focus on **Networking, Wireless Communication and Software Development**
 
-#### 🏅 My skills:</br>
-*Languages & Frameworks*
+#### 🏅 My skills:
+
+<details>
+<summary>Languages & Frameworks</summary>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -14,8 +16,10 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
+</details>
 
-*Cloud & Systems*
+<details>
+<summary>Cloud & Systems</summary>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -28,8 +32,10 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
+</details>
 
-*Networking, Security & Hardware*
+<details>
+<summary>Networking, Security & Hardware</summary>
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
@@ -37,8 +43,10 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
   <img src="https://img.shields.io/badge/IPsec-4A154B?style=for-the-badge&logo=wireguard&logoColor=white" alt="IPsec" />
   <img src="https://img.shields.io/badge/802.1X-333333?style=for-the-badge&logo=auth0&logoColor=white" alt="802.1X" />
 </p>
+</details>
 
-*Protocols & Routing*
+<details>
+<summary>Protocols & Routing</summary>
 <p>
   <img src="https://img.shields.io/badge/BGP-20232A?style=for-the-badge&logo=diagram-next&logoColor=white" alt="BGP" />
   <img src="https://img.shields.io/badge/IS--IS-20232A?style=for-the-badge&logo=network-wired&logoColor=white" alt="IS-IS" />
@@ -52,6 +60,7 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
   <img src="https://img.shields.io/badge/HTTP%20%2F%20HTTPS-008080?style=for-the-badge&logo=nginx&logoColor=white" alt="HTTP/HTTPS" />
   <img src="https://img.shields.io/badge/SMTP%20%2F%20IMAP-4A154B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="SMTP / IMAP" />
 </p>
+</details>
 
 #### 📃 I'm currently learning:
 
@@ -73,5 +82,5 @@ A 20 year old CS student specializing in Infrastructure. I focus on **Networking
 <br />
 
 <p>
-  <img src="./assets/afterlife.jpg" alt="afterlife-picture" width="70%""/>
+  <img src="./assets/afterlife.jpg" alt="afterlife-picture" width="70%"/>
 </p>
